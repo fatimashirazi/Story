@@ -1,1 +1,2 @@
 it was the age of aliens, it was the age of humans.
+func calc(){lesdoit this way}
